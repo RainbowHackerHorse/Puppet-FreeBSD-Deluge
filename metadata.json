@@ -1,6 +1,6 @@
 {
   "name": "hackerhorse-puppet_freebsd_deluge",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "hackerhorse",
   "summary": "Deluge on FreeBSD",
   "license": "BSD-2-Clause",

@@ -3,12 +3,13 @@
   "version": "0.1.0",
   "author": "hackerhorse",
   "summary": "Deluge on FreeBSD",
-  "license": "bsd-2-clause",
-  "source": "https://github.com/RainbowHackerHorse/Puppet-FreeBSD-Deluge",
-  "project_page": "https://github.com/RainbowHackerHorse/Puppet-FreeBSD-Deluge",
-  "issues_url": "https://github.com/RainbowHackerHorse/Puppet-FreeBSD-Deluge/issues",
+  "license": "BSD-2-Clause",
+  "source": "https://github.com/RainbowHackerHorse/puppet_freebsd_deluge",
+  "project_page": "https://github.com/RainbowHackerHorse/puppet_freebsd_deluge",
+  "issues_url": "https://github.com/RainbowHackerHorse/puppet_freebsd_deluge/issues",
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+    {"name":"snonux-zfs","version_requirement":"= master"}
   ],
   "data_provider": null
 }

@@ -31,5 +31,5 @@ for more information!
 This module ONLY RUNS ON FREEBSD.
 
 ## Contribute
-You can contribute by forking https://github.com/RainbowHackerHorse/Puppet-FreeBSD-Deluge
+You can contribute by forking https://github.com/RainbowHackerHorse/puppet_freebsd_deluge
 and opening a PR.

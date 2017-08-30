@@ -1,0 +1,15 @@
+{
+  "name": "hackerhorse-puppet_freebsd_deluge",
+  "version": "0.1.0",
+  "author": "hackerhorse",
+  "summary": "Deluge on FreeBSD",
+  "license": "bsd-2-clause",
+  "source": "https://github.com/RainbowHackerHorse/Puppet-FreeBSD-Deluge",
+  "project_page": "https://github.com/RainbowHackerHorse/Puppet-FreeBSD-Deluge",
+  "issues_url": "https://github.com/RainbowHackerHorse/Puppet-FreeBSD-Deluge/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+

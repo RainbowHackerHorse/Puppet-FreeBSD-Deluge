@@ -1,9 +1,9 @@
-# Class: freebsd_deluge
+# Class: puppet_freebsd_deluge
 # Lightweight deluge module to install a headless deluge server on FreeBSD
 # Module written by Rainbow <rainbow@hacker.horse>
 # Released under the 2-clause BSD license.
 
-class freebsd_deluge {
+class puppet_freebsd_deluge {
   package { 'deluge-cli':
     ensure  => latest,
     require => User['deluge'],

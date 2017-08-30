@@ -7,7 +7,7 @@
   "files/core.conf": "f3caadd1013f98d1c87a11543cd79242",
   "files/deluged_init.sh": "ed5fc0fb227e9fa49e97a0127c2cb907",
   "manifests/init.pp": "1f65a17d479c9784a8b16d3d6eb2c474",
-  "metadata.json": "3d905424545407060c69823e0f424c60",
+  "metadata.json": "006d374bc0151c7f840907c6516a64c3",
   "spec/classes/init_spec.rb": "f25fec822df6eca1ee382527c99a4c77",
   "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc"
 }

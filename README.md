@@ -1,5 +1,7 @@
 # puppet_freebsd_deluge
 
+## Deprecated in favor of https://forge.puppet.com/hackerhorse/puppet_deluge
+
 #### Table of Contents
 
 1. [What Does This Do?](#What-does-this-do)
